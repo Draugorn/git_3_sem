@@ -1,1 +1,0 @@
-# Hello! Just a quick friendly greeting here.
